@@ -1,0 +1,6 @@
+[submodule "IfMemory-frontend"]
+	path = IfMemory-frontend
+	url = https://github.com/sora2525/IfMemory-frontend.git
+[submodule "IfMemory-backend"]
+	path = IfMemory-backend
+	url = https://github.com/sora2525/IfMemory-backend.git
